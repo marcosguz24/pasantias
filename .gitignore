@@ -1,0 +1,24 @@
+# Archivo de clase compilado
+* .clase
+
+# archivo de registro
+* .registro
+
+# Archivos BlueJ
+* .ctxt
+
+# Herramientas móviles para Java (J2ME)
+.mtj.tmp /
+
+# Archivos del paquete #
+* .jar
+* .guerra
+* .nar
+* .oreja
+* .zip
+* .tar.gz
+* .rar
+
+# registros de fallas de la máquina virtual, consulte http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid *
+repetición_pid *
